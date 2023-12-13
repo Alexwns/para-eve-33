@@ -1,0 +1,10 @@
+ h1{
+   background: #ccc;
+ 
+   background: linear-gradient(90deg, #007cf0, #000);
+   font-family: system-ui,;
+   font-size: 3rem;
+   text-align: center;
+   -webkit-text-fill-color: transparent;
+   background-clip: text;
+ }
